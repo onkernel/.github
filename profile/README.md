@@ -1,1 +1,1 @@
-![Kernel header](/static/images/kernel-github-header-ascii.png)
+![Kernel header](/static/images/kernel-github-header-ascii-2.png)
